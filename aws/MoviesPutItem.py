@@ -31,7 +31,7 @@ if __name__ == '__main__':
     print("Put movie succeeded:")
     pprint(movie_resp)
 
-        movie_title = "Deliverance"
+    movie_title = "Deliverance"
     movie_year =  1972
     movie_actors = {"Jon Voight", "Burt Reynolds", "Ned Beatty"}
 
